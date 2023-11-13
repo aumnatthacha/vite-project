@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 // src/BMICalculatorComponent.jsx
 import React, { useState } from "react";
 import BMICalculator from "./BMICalculator";
